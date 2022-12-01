@@ -17,6 +17,27 @@ http://15.1.5.10:8082/select2/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/Sony-Max/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , BTV
 http://15.1.5.10:8082/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Somoy
+http://15.1.5.22:8082/Somoy-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Channel 24
+
+http://15.1.5.22:8082/Channel24/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Boishakhi
+
+http://15.1.5.18:8082/Boishakhi/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MyTv
+
+http://15.1.5.18:8082/MyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Mohona
+
+http://15.1.5.22:8082/MohonaTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Jamuna
+http://15.1.5.10:8082/jamuna-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Independent
+http://15.1.5.22:8082/Independent-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Masranga
+http://15.1.5.18:8082/maasranga/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , DBC
 http://15.1.5.10:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Ekattor
