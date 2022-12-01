@@ -7,3 +7,10 @@ http://15.1.5.22:8082/sony-six-hd/tracks-v1a1/mono.m3u8
 http://15.1.5.18:8082/ten1-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Sony 2 hd
 http://15.1.5.10:8082/sony-ten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,fifa2 tv
+http://15.1.5.22:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Star Select 1
+http://15.1.5.18:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Star Select 2
+http://15.1.5.10:8082/select2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , 
