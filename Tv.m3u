@@ -1,20 +1,10 @@
 #EXTM3U
+
 #EXTINF:-1 ,Fifa1 tv
 http://15.1.5.10:8082/en3-37/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Fifa2 tv
 http://15.1.5.22:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Sony six
-http://15.1.5.22:8082/sony-six-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Sony 1 hd
-http://15.1.5.18:8082/ten1-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Sony 2 hd
-http://15.1.5.10:8082/sony-ten2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , Star Select 1
-http://15.1.5.18:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , Star Select 2
-http://15.1.5.10:8082/select2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , Sony Max Hd
-http://15.1.5.14:8082/Sony-Max/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 , BTV
 http://15.1.5.10:8082/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Somoy
@@ -51,16 +41,32 @@ http://15.1.5.10:8082/RTV/tracks-v1a1/mono.m3u8
 http://15.1.5.10:8082/SATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Bangla Vision
 http://15.1.5.18:8082/BanglaVision/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, Discovery
 http://15.1.5.14:8082/discovery-kid/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Star Movies
-http://15.1.5.22:8082/star-movies-hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,Sony six
+http://15.1.5.22:8082/sony-six-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sony 1 hd
+http://15.1.5.18:8082/ten1-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sony 2 hd
+http://15.1.5.10:8082/sony-ten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Star Select 1
+http://15.1.5.18:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Star Select 2
+http://15.1.5.10:8082/select2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 , Sony Max Hd
+http://15.1.5.14:8082/Sony-Max/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Sony Aath
 http://15.1.5.10:8082/Sonyaath/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Sony Pix
-http://15.1.5.22:8082/sony-pix-hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Star Movies
+http://15.1.5.22:8082/star-movies-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Star World 
 http://15.1.5.14:8082/star-worldhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Sony Pix
+http://15.1.5.22:8082/sony-pix-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1, MNX 
 http://15.1.5.18:8082/mnx-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Movies Now 
