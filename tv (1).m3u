@@ -1,0 +1,147 @@
+#EXTM3U 
+#EXTINF: -1 tvg-chno="1" group-title="Bangla", Anandotv
+http://15.1.5.10:8082/anandotv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="2" group-title="Bangla", AsianTV
+http://15.1.5.14:8082/AsianTV/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="3" group-title="Bangla", ATN news
+http://15.1.5.22:8082/Atn-News/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="4" group-title="Bangla", ATN-Bangla
+http://15.1.5.22:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="5" group-title="Bangla", BanglaTV
+http://15.1.5.18:8082/bangla-tv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="6" group-title="Bangla", BanglaVision
+http://15.1.5.14:8082/BanglaVision/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="7" group-title="Bangla", Boishakhi
+http://15.1.5.18:8082/Boishakhi/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="8" group-title="Bangla", BTV
+http://15.1.5.18:8082/btv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="9" group-title="Bangla", Channel 24
+http://15.1.5.10:8082/Channel24/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="10" group-title="Bangla", Channel-I
+http://15.1.5.10:8082/Channel-i/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="11" group-title="Bangla", Color Bangla Cinema
+http://15.1.5.18:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="12" group-title="Bangla", DBC
+http://15.1.5.22:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="13" group-title="Bangla", Depto-bangla
+http://15.1.5.10:8082/depto-bangla/index.m3u8
+#EXTINF: -1 tvg-chno="14" group-title="Bangla", Duronto TV
+http://15.1.5.18:8082/duronto-tv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="15" group-title="Bangla", Ekattor Tv
+http://15.1.5.22:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="16" group-title="Bangla", Ekushey-TV
+http://15.1.5.10:8082/Ekushey-TV/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="17" group-title="Bangla", GaanBangla
+http://15.1.5.22:8082/GaanBangla/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="18" group-title="Bangla", Independent TV
+http://15.1.5.10:8082/Independent-Tv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="19" group-title="Bangla", Jalsha Movies
+http://15.1.5.22:8082/jalsha-movies/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="20" group-title="Bangla", Jamuna Tv
+http://15.1.5.14:8082/jamuna-tv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="21" group-title="Bangla", Maasranga TV
+http://15.1.5.14:8082/maasranga/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="22" group-title="Bangla", MohonaTV
+http://15.1.5.18:8082/MohonaTV/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="23" group-title="Bangla", MyTV
+http://15.1.5.22:8082/MyTV/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="24" group-title="Bangla", nagorik-tv
+http://15.1.5.18:8082/nagorik-tv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="25" group-title="Bangla", News 24
+http://15.1.5.22:8082/News24bd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="26" group-title="Bangla", NTV
+http://15.1.5.22:8082/Ntv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="27" group-title="Bangla", RTV
+http://15.1.5.14:8082/RTV/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="28" group-title="Bangla", SATV
+http://15.1.5.18:8082/SATV/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="29" group-title="Bangla", Somoy Tv
+http://15.1.5.10:8082/Somoy-TV/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="30" group-title="Bangla", Sony Aath
+http://15.1.5.10:8082/Sonyaath/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="31" group-title="Bangla", Star Jalsha
+http://15.1.5.10:8082/jalsha/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="32" group-title="Bangla", Zee Bangla
+http://15.1.5.18:8082/zee-bangla/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="33" group-title="Bangla", Zee Bangla Cinema
+http://15.1.5.14:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="1" group-title="Hindi", colorscineplex
+http://15.1.5.18:8082/colorscineplex/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="2" group-title="Hindi", colorsindia
+http://15.1.5.18:8082/colorsindia/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="3" group-title="Hindi", Dhinchaak
+http://15.1.5.10:8082/Dhinchaak/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="4" group-title="Hindi", Sony-Max
+http://15.1.5.18:8082/Sony-Max/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="5" group-title="Hindi", sony-max2
+http://15.1.5.22:8082/sony-max2/index.m3u8
+#EXTINF: -1 tvg-chno="6" group-title="Hindi", SONY-SUB
+http://15.1.5.18:8082/SONY-SUB/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="7" group-title="Hindi", SonyTVHD
+http://15.1.5.10:8082/SonyTVHD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="8" group-title="Hindi", star-gold
+http://15.1.5.14:8082/star-gold/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="9" group-title="Hindi", star-plus
+http://15.1.5.18:8082/star-plus/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="10" group-title="Hindi", star-world-hd
+http://15.1.5.14:8082/star-worldhd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="11" group-title="Hindi", zee-tv-hd
+http://15.1.5.18:8082/zee-tv-hd/index.m3u8
+#EXTINF: -1 tvg-chno="12" group-title="Hindi", zeeaction
+http://15.1.5.22:8082/zeeaction/index.m3u8
+#EXTINF: -1 tvg-chno="13" group-title="Hindi", ZeeCinemaHD
+http://15.1.5.22:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="Movies", AND-FLIX
+http://15.1.5.18:8082/AND-FLIX/index.m3u8
+#EXTINF: -1 group-title="Movies", mn-hd
+http://15.1.5.10:8082/mn-hd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="Movies", movies-now
+http://15.1.5.22:8082/movies-now/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="Movies", sony-pix-hd
+http://15.1.5.14:8082/sony-pix-hd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="Movies", star-movies-hd
+http://15.1.5.18:8082/star-movies-hd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="1" group-title="Music", 9XM
+http://15.1.5.10:8082/9XM/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="2" group-title="Music", ATN-MUSIC
+http://15.1.5.10:8082/ATN-MUSIC/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="3" group-title="Music", B4U
+http://15.1.5.14:8082/b4u/index.m3u8
+#EXTINF: -1 tvg-chno="4" group-title="Music", bindass
+http://15.1.5.22:8082/bindass/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="5" group-title="Music", sangeet-bangla
+http://15.1.5.18:8082/sangeet-bangla/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="Documentary", Nation Geo
+http://15.1.5.22:8082/ngohd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="Documentary", BBC-Earth
+http://15.1.5.14:8082/BBC-Earth/index.m3u8
+#EXTINF: -1 tvg-chno="1" group-title="Sports", Adsports1
+http://15.1.5.10:8082/Adsports1/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="2" group-title="Sports", Adsports2
+http://15.1.5.18:8082/Adsports2/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="3" group-title="Sports", GAZI-TV-HD
+http://15.1.5.18:8082/GAZI-TV-HD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="4" group-title="Sports", sony-six-hd
+http://15.1.5.10:8082/sony-six-hd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="5" group-title="Sports", sony-ten2
+http://15.1.5.14:8082/sony-ten2/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="6" group-title="Sports", SPORTS
+http://15.1.5.22:8082/tv13/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="7" group-title="Sports", SPORTS
+http://15.1.5.22:8082/tv14/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="8" group-title="Sports", Sports 18
+http://15.1.5.14:8082/en3-37/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="9" group-title="Sports", Star_Sport_Select1HD
+http://15.1.5.14:8082/Star_Sport_Select1HD/index.m3u8
+#EXTINF: -1 tvg-chno="10" group-title="Sports", Star_Sport_Select2HD
+http://15.1.5.10:8082/select2/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="11" group-title="Sports", STAR-SPORTS-1
+http://15.1.5.18:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="12" group-title="Sports", STAR-SPORTS-2
+http://15.1.5.14:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="13" group-title="Sports", ten1-hd
+http://15.1.5.22:8082/ten1-hd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="14" group-title="Sports", TSPORTS-HD
+http://15.1.5.22:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-chno="15" group-title="Sports", Willow-hd
+http://15.1.5.22:8082/willow-hd/tracks-v1a1/mono.m3u8
