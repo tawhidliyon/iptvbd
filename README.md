@@ -1,38 +1,18 @@
-<h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
-<!-- BADGES -->
-<div align="center">
-   <p></p>
-   <a href="#">
-      <img src="https://img.shields.io/github/stars/tawhidliyon/iptvbd?color=%23ac4142&labelColor=%23151515&style=for-the-badge">
-   </a>
-   <a href="https://github.com/tawhidliyon/iptvbd/network/members/">
-      <img src="https://img.shields.io/github/forks/tawhidliyon/iptvbd?color=%236a9fb5&labelColor=%23151515&style=for-the-badge">
-   </a>
-   <img src="https://img.shields.io/github/repo-size/tawhidliyon/iptvbd?color=%23d0d0d0&labelColor=%23151515&style=for-the-badge">
-	<img src="https://badges.strrl.dev/visits/tawhidliyon/iptvbd?style=for-the-badge&color=aa759f&logoColor=white&labelColor=151515"/>
-  <br>
-</div>
+# Basic Portfolio Website
 
-<p/>
+This is a simple, single-page portfolio website created with HTML, CSS, and JavaScript.
 
-<h2></h2>
+## Features
 
-## ❖ iptvbd <img align="right" src="https://img.shields.io/tokei/lines/github/tawhidliyon/iptvbd?style=for-the-badge&color=90a959&logoColor=white&labelColor=151515"/>
+*   **Header**: A header with navigation links to different sections of the page.
+*   **About Me**: A section to introduce yourself.
+*   **Projects**: A section to showcase your work.
+*   **Contact**: A section with your contact information.
+*   **Smooth Scrolling**: A simple JavaScript enhancement for smooth scrolling when navigating the page.
 
-Iptv links playlist for Bangladeshi channels
-Variants: 
-- Fifa
-- Tv
+## How to Use
 
-### ❖ Usage
-- Copy any of the raw file url
-- Paste them in your favorite Iptv manager or video player(eg `vlc`)
-- TV variant:
-```js
-https://raw.githubusercontent.com/tawhidliyon/iptvbd/main/Tv.m3u
-```
-- Fifa variant:
-```js
-https://raw.githubusercontent.com/tawhidliyon/iptvbd/main/fifa.m3u
-```
-
+1.  Clone this repository.
+2.  Open the `index.html` file in your web browser.
+3.  Customize the content in `index.html` to make it your own.
+4.  Modify the styles in `style.css` to change the look and feel of the website.
